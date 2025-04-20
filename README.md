@@ -38,9 +38,11 @@ The study is observational, allowing for causal inferences, and focuses on using
    - Built default, deep (overfitted), and pruned versions
    - Pruned tree achieved 87.58% accuracy
    - Extracted interpretable decision rules
+
 2. Neural Network
 - One hidden layer with optimal tuning
 - Achieved 88.24% accuracy on validation set
+
 3. Logistic Regression
  - Best model with highest accuracy and precision
  - Balanced performance on all key metrics (Accuracy, Sensitivity, Specificity, Precision)
